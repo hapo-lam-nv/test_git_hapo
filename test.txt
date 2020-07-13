@@ -1,3 +1,7 @@
 nguyen van lam
+<<<<<<< HEAD
+Dai hoc bach khoa Ha Noi-CNTT_dhbk
+=======
 Dai hoc bach khoa Ha Noi-CNTT-lam
+>>>>>>> master
 
